@@ -1,0 +1,18 @@
+{
+  "name": "YINJI 音跡",
+  "short_name": "YINJI",
+  "description": "Learn Chinese characters that change their sound through context.",
+  "start_url": "/yinji-demo/",
+  "display": "standalone",
+  "background_color": "#faf7ef",
+  "theme_color": "#284a3d",
+  "icons": [
+    {
+      "src": "/yinji-demo/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "scope": "/yinji-demo/"
+}
